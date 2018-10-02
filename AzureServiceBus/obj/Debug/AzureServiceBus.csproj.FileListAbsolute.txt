@@ -1,0 +1,8 @@
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\bin\Debug\AzureServiceBus.exe.config
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\bin\Debug\AzureServiceBus.exe
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\bin\Debug\AzureServiceBus.pdb
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\bin\Debug\Microsoft.ServiceBus.dll
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\bin\Debug\Microsoft.ServiceBus.xml
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\obj\Debug\AzureServiceBus.csprojResolveAssemblyReference.cache
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\obj\Debug\AzureServiceBus.exe
+C:\Nitin\Projects\Temp\AzureServiceBus\AzureServiceBus\obj\Debug\AzureServiceBus.pdb
